@@ -10,6 +10,9 @@ Dependiences:
 DOWNLOAD:
 0.1-linuz-alpha: http://github.com/glowiak/flashplayer-dbg-linux/releases/download/0.1linuz/flashplayer-linux.txz
 
+Good news Arch users! ArchLinux package is out!
+Get it here: https://github.com/glowiak/flashplayer-dbg-linux/releases/download/0.1linuz/flashplayer-dbg-0.1linuz-1-x86_64.pkg.tar.zst
+
 
 How to install & run:
 !NOTE! You must have installed 32 bit wine and zenity!
